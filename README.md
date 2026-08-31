@@ -37,7 +37,7 @@ I love turning data, code, and creativity into engaging content that helps other
 <p align="center">
   <a href="https://www.youtube.com/@hfplays"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://www.instagram.com/hfplays/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://discord.com/invite/ZDk9HJsNKS"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://discord.com/invite/anyueZ2xdF"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://www.tiktok.com/@6hfplays"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
 </p>
 
