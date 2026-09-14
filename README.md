@@ -35,7 +35,7 @@ I create content around **gaming performance & PC benchmarking**, while also bui
     <td width="50%">
       <h4>🌐 HF Plays Website</h4>
       <p>My official site featuring gaming content and benchmark results.</p>
-      <a href="https://hfplays.github.io">🔗 Visit</a>
+      <a href="https://hfplays.com">🔗 Visit</a>
     </td>
     <td width="50%">
       <h4>📊 Gaming FPS Benchmarks</h4>
