@@ -47,20 +47,15 @@ I create content around **gaming performance & PC benchmarking**, while also bui
 
 ---
 
-### 📊 GitHub Stats
+### 🎯 Currently
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hfplays&show_icons=true&theme=radical&hide_border=true" alt="HF Plays GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hfplays&layout=compact&theme=radical&hide_border=true" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hfplays&theme=radical&hide_border=true" alt="streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hfplays&theme=redical" alt="activity graph" />
-</p>
+```txt
+🔭 Working on   : Benchmark tools & PC optimization guides
+🌱 Learning     : React & Vue for more interactive web projects
+🎮 Testing      : FPS performance across various game titles & hardware
+📬 Reach me at  : discord.com/invite/anyueZ2xdF
+⚡ Fun fact     : I turn frame-rate graphs into content people actually enjoy
+```
 
 ---
 
