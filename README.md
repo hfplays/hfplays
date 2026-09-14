@@ -15,32 +15,32 @@
 
 ---
 
-### 🚀 Tentang Saya
+### 🚀 About Me
 
-Saya membuat konten seputar **gaming performance & PC benchmarking**, sekaligus membangun website dengan fokus pada **kecepatan, usability, dan responsive design**. Saya percaya data dan kode bisa jadi konten yang mengedukasi sekaligus menyenangkan.
+I create content around **gaming performance & PC benchmarking**, while also building websites focused on **speed, usability, and responsive design**. I believe data and code can be turned into content that's both educational and fun.
 
-- 🎮 Membuat tutorial benchmark & optimasi PC di [YouTube](https://www.youtube.com/@hfplays)
-- 💻 Mengembangkan website dengan **HTML, CSS, JavaScript**
-- ⚙️ Fokus pada performa, aksesibilitas, dan desain responsif
-- 📈 Sedang memperdalam **React** & **Vue**
-- 🛠️ Suka eksperimen dengan tweak performa sistem untuk PC low-end
-- ☕ Ditenagai kopi dan rasa penasaran
+- 🎮 Making PC benchmark & optimization tutorials on [YouTube](https://www.youtube.com/@hfplays)
+- 💻 Building websites with **HTML, CSS, JavaScript**
+- ⚙️ Focused on performance, accessibility, and responsive design
+- 📈 Currently leveling up in **React** & **Vue**
+- 🛠️ I love experimenting with system tweaks for low-end PCs
+- ☕ Powered by coffee and curiosity
 
 ---
 
-### 🔥 Proyek Unggulan
+### 🔥 Featured Projects
 
 <table>
   <tr>
     <td width="50%">
       <h4>🌐 HF Plays Website</h4>
-      <p>Website resmi berisi konten gaming & hasil benchmark.</p>
-      <a href="https://hfplays.github.io">🔗 Kunjungi</a>
+      <p>My official site featuring gaming content and benchmark results.</p>
+      <a href="https://hfplays.github.io">🔗 Visit</a>
     </td>
     <td width="50%">
       <h4>📊 Gaming FPS Benchmarks</h4>
-      <p>Perbandingan FPS berbagai game populer di berbagai spek PC.</p>
-      <a href="https://www.youtube.com/@hfplays">🔗 Tonton</a>
+      <p>FPS comparisons for popular games across different PC specs.</p>
+      <a href="https://www.youtube.com/@hfplays">🔗 Watch</a>
     </td>
   </tr>
 </table>
@@ -79,7 +79,7 @@ Saya membuat konten seputar **gaming performance & PC benchmarking**, sekaligus 
 
 <p align="center">
   <i>"Built by gamers, for gamers."</i> ⭐<br>
-  Kalau proyek ini bermanfaat, jangan lupa <b>follow</b> atau kasih <b>⭐</b> ya!
+  If this profile inspired you, don't forget to <b>follow</b> or drop a <b>⭐</b>!
 </p>
 
 <p align="center">
